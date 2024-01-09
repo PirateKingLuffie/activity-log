@@ -27,3 +27,4 @@
 - 2024-01-09 20:45: chore: activity update
 - 2024-01-09 09:33: chore: daily checkpoint
 - 2024-01-09 10:59: chore: daily checkpoint
+- 2024-01-09 16:59: docs: add learning notes
