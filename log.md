@@ -63,3 +63,4 @@
 - 2024-01-17 18:04: chore: update activity log
 - 2024-01-17 10:37: chore: activity update
 - 2024-01-17 16:15: chore: sync notes
+- 2024-01-17 10:52: docs: update progress tracker
