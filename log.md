@@ -103,3 +103,4 @@
 - 2024-01-28 12:46: docs: add learning notes
 - 2024-01-29 20:03: chore: log today's work
 - 2024-01-29 22:54: chore: activity update
+- 2024-01-29 12:59: docs: add learning notes
