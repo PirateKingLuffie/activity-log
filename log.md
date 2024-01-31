@@ -110,3 +110,4 @@
 - 2024-01-30 18:54: chore: update activity log
 - 2024-01-30 14:42: docs: daily progress note
 - 2024-01-31 21:05: chore: sync notes
+- 2024-01-31 11:51: docs: add learning notes
