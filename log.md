@@ -117,3 +117,4 @@
 - 2024-02-01 22:56: chore: activity update
 - 2024-02-01 09:15: chore: sync notes
 - 2024-02-01 23:26: docs: add learning notes
+- 2024-02-01 14:07: docs: add learning notes
