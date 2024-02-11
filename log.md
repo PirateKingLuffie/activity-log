@@ -160,3 +160,4 @@
 - 2024-02-10 20:35: docs: daily standup notes
 - 2024-02-10 22:11: docs: daily standup notes
 - 2024-02-11 10:33: docs: progress update
+- 2024-02-11 09:23: docs: add learning notes
