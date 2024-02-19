@@ -189,3 +189,4 @@
 - 2024-02-18 20:04: chore: activity update
 - 2024-02-19 21:10: docs: progress update
 - 2024-02-19 17:50: docs: update progress tracker
+- 2024-02-19 20:38: docs: add learning notes
