@@ -406,3 +406,4 @@
 - 2024-04-09 12:30: docs: progress update
 - 2024-04-09 23:44: chore: activity update
 - 2024-04-09 20:21: docs: daily progress note
+- 2024-04-10 17:46: docs: add learning notes
