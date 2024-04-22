@@ -457,3 +457,4 @@
 - 2024-04-21 09:54: docs: add learning notes
 - 2024-04-21 16:55: docs: progress update
 - 2024-04-21 22:39: docs: progress update
+- 2024-04-22 22:57: docs: add learning notes
