@@ -567,3 +567,4 @@
 - 2024-05-18 19:46: docs: daily standup notes
 - 2024-05-18 21:07: chore: log today's work
 - 2024-05-18 18:59: docs: daily standup notes
+- 2024-05-19 16:42: docs: add learning notes
