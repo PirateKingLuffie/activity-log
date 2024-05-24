@@ -591,3 +591,4 @@
 - 2024-05-24 10:44: docs: update progress tracker
 - 2024-05-24 12:10: docs: update progress tracker
 - 2024-05-24 13:18: docs: daily progress note
+- 2024-05-24 17:39: docs: add learning notes
