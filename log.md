@@ -619,3 +619,4 @@
 - 2024-05-31 17:59: docs: add learning notes
 - 2024-05-31 10:18: docs: add learning notes
 - 2024-05-31 15:28: docs: progress update
+- 2024-06-01 15:37: docs: add learning notes
