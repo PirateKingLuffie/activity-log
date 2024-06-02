@@ -626,3 +626,4 @@
 - 2024-06-02 16:58: chore: sync notes
 - 2024-06-02 19:07: docs: update progress tracker
 - 2024-06-02 19:16: docs: progress update
+- 2024-06-02 09:34: docs: add learning notes
