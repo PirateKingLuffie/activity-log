@@ -769,3 +769,4 @@
 - 2024-07-06 19:28: chore: log today's work
 - 2024-07-06 22:55: chore: sync notes
 - 2024-07-07 18:00: docs: update progress tracker
+- 2024-07-07 17:04: docs: add learning notes
