@@ -776,3 +776,4 @@
 - 2024-07-08 14:27: docs: progress update
 - 2024-07-08 10:24: docs: progress update
 - 2024-07-08 13:03: chore: update activity log
+- 2024-07-08 22:30: docs: add learning notes
