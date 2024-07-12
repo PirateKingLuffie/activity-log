@@ -789,3 +789,4 @@
 - 2024-07-11 14:13: chore: log today's work
 - 2024-07-11 20:49: chore: log today's work
 - 2024-07-12 22:53: chore: update activity log
+- 2024-07-12 17:56: docs: add learning notes
