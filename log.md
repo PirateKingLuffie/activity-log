@@ -807,3 +807,4 @@
 - 2024-07-16 18:43: docs: progress update
 - 2024-07-16 21:19: docs: progress update
 - 2024-07-16 19:24: docs: progress update
+- 2024-07-16 12:54: docs: add learning notes
