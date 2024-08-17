@@ -948,3 +948,4 @@
 - 2024-08-16 11:12: chore: daily checkpoint
 - 2024-08-17 19:03: chore: update activity log
 - 2024-08-17 18:56: chore: log today's work
+- 2024-08-17 17:24: docs: add learning notes
