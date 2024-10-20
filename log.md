@@ -1182,3 +1182,4 @@
 - 2024-10-19 09:47: docs: add learning notes
 - 2024-10-19 10:09: docs: daily progress note
 - 2024-10-19 17:07: chore: log today's work
+- 2024-10-20 17:20: docs: add learning notes
