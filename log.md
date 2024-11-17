@@ -1284,3 +1284,4 @@
 - 2024-11-16 12:50: docs: daily progress note
 - 2024-11-16 13:28: chore: sync notes
 - 2024-11-16 22:05: chore: sync notes
+- 2024-11-17 11:34: docs: add learning notes
