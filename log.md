@@ -1382,3 +1382,4 @@
 - 2024-12-09 15:42: chore: update activity log
 - 2024-12-09 13:24: chore: update activity log
 - 2024-12-09 23:59: chore: sync notes
+- 2024-12-10 20:37: docs: add learning notes
