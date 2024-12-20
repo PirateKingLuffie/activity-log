@@ -1418,3 +1418,4 @@
 - 2024-12-19 20:00: docs: add learning notes
 - 2024-12-19 10:12: docs: progress update
 - 2024-12-19 11:16: docs: add learning notes
+- 2024-12-20 13:46: docs: add learning notes
