@@ -1834,3 +1834,4 @@
 - 2025-04-01 15:40: chore: sync notes
 - 2025-04-01 22:03: chore: update activity log
 - 2025-04-02 19:04: docs: progress update
+- 2025-04-02 21:08: docs: add learning notes
