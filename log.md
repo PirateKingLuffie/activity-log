@@ -1978,3 +1978,4 @@
 - 2025-05-06 21:30: chore: update activity log
 - 2025-05-06 17:23: chore: daily checkpoint
 - 2025-05-06 20:21: chore: update activity log
+- 2025-05-07 17:14: docs: add learning notes
