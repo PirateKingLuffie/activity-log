@@ -2044,3 +2044,4 @@
 - 2025-05-21 17:01: chore: log today's work
 - 2025-05-21 21:36: docs: progress update
 - 2025-05-21 17:25: docs: progress update
+- 2025-05-21 11:23: docs: add learning notes
