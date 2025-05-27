@@ -2064,3 +2064,4 @@
 - 2025-05-25 22:35: docs: update progress tracker
 - 2025-05-26 21:05: chore: sync notes
 - 2025-05-26 16:07: chore: log today's work
+- 2025-05-27 12:59: docs: add learning notes
