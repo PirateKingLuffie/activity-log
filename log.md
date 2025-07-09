@@ -2250,3 +2250,4 @@
 - 2025-07-08 15:16: docs: daily progress note
 - 2025-07-08 22:55: docs: daily progress note
 - 2025-07-08 19:43: docs: daily progress note
+- 2025-07-09 12:40: docs: add learning notes
