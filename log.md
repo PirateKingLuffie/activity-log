@@ -2297,3 +2297,4 @@
 - 2025-07-20 17:35: chore: daily checkpoint
 - 2025-07-20 09:32: chore: update activity log
 - 2025-07-20 21:42: docs: update progress tracker
+- 2025-07-20 14:04: docs: add learning notes
