@@ -2308,3 +2308,4 @@
 - 2025-07-22 11:20: docs: daily progress note
 - 2025-07-23 19:40: chore: daily checkpoint
 - 2025-07-23 17:42: chore: log today's work
+- 2025-07-24 10:48: docs: add learning notes
