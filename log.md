@@ -2536,3 +2536,4 @@
 - 2025-09-15 13:31: chore: sync notes
 - 2025-09-16 10:13: chore: log today's work
 - 2025-09-16 23:31: chore: daily checkpoint
+- 2025-09-16 14:33: docs: add learning notes
