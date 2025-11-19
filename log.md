@@ -2788,3 +2788,4 @@
 - 2025-11-18 14:05: docs: progress update
 - 2025-11-19 19:06: docs: daily progress note
 - 2025-11-19 22:00: chore: sync notes
+- 2025-11-19 12:26: docs: add learning notes
