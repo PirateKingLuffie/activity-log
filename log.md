@@ -2803,3 +2803,4 @@
 - 2025-11-22 12:32: docs: progress update
 - 2025-11-22 15:13: chore: update activity log
 - 2025-11-22 11:01: docs: update progress tracker
+- 2025-11-22 22:39: docs: add learning notes
