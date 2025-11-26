@@ -2820,3 +2820,4 @@
 - 2025-11-25 22:30: chore: activity update
 - 2025-11-25 12:07: chore: activity update
 - 2025-11-25 20:58: docs: daily standup notes
+- 2025-11-26 11:44: docs: add learning notes
