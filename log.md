@@ -3443,3 +3443,4 @@
 - 2026-05-10 20:49: chore: sync notes
 - 2026-05-10 14:05: chore: sync notes
 - 2026-05-10 11:05: chore: activity update
+- 2026-05-11 10:40: docs: add learning notes
